@@ -1,9 +1,9 @@
 {
   "name": "static-pages",
-  "private": true,
+  "homepage": "https://ConnorJohnHughes.github.io/scrimba-static-pages",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ConnorJohnHughes.github.io/scrimba-static-pages",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
