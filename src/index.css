@@ -63,7 +63,7 @@ body {
   transform: translateY(-50%);
   width: 400px;
   height: 400px;
-  background-image: url("src/assets/React-icon.svg.png");
+  background-image: url("/public/React-icon.png");
   background-repeat: no-repeat;
   background-size: contain;
   opacity: 0.05;
