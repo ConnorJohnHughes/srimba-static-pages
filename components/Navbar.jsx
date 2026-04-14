@@ -12,7 +12,7 @@
 export default function Navbar() {
     return (
         <div className="nav">
-            <img src="/src/assets/React-icon.svg.png" alt="React logo"/>
+            <img src="src\assets\React-icon.svg.png" alt="React logo"/>
             <h1>ReactFacts</h1>
         </div>
         
