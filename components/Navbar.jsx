@@ -8,11 +8,11 @@
  * - reference the Figma design for the most accurate info about
  *   colors, sizes, font information, etc.
  */
-
+import logo from "/React-icon.png";
 export default function Navbar() {
     return (
         <div className="nav">
-            <img src="src\assets\React-icon.svg.png" alt="React logo"/>
+            <img src={logo} alt="React logo"/>
             <h1>ReactFacts</h1>
         </div>
         
